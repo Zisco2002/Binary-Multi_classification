@@ -1,2 +1,2 @@
 # NTI_task1
-This is a repository created to make sure that we can create repositories and use them well.
+This task is about applying multi class classification on the iris data set using a small NN
